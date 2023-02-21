@@ -14,7 +14,7 @@
 Um sistema de cadastro de gastos financeiros 
 
 # 🚀 Meus Passos
- - Comecei instalando bibliotecas para manter boas práticas de desenvolvimento, como eslint, prettier, commitlint, entre outras.
+ - Comecei instalando bibliotecas para manter boas práticas de desenvolvimento, como eslint, prettier, entre outras.
  - Configurei o nodejs baixando express e as demais ferramentas utilizadas.
  - Instalei o docker e baixei uma imagem mysql.
  - Conectei a aplicação com o banco de dados utilizando mysql2.
@@ -30,7 +30,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Mysql](https://www.npmjs.com/package/mysql2)
 * [Eslint](https://eslint.org/)
 * [Prettier](https://prettier.io/)
-* [Commitlint](https://commitlint.js.org/#/)
 
 # 📥 Instruções de uso
 Será necessario ter Mysql instalado na maquina ou rodando em algum container.
