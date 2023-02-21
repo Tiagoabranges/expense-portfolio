@@ -59,4 +59,4 @@ Se encontrar algum problema, por favor, me comunique [aqui](https://www.linkedin
 
 
 # 📝 Licença
-Desenvolvido com 💙 por [Tiago Abranges](https://www.linkedin.com/in/tiagoabranges/)
+Desenvolvido por [Tiago Abranges](https://www.linkedin.com/in/tiagoabranges/)
