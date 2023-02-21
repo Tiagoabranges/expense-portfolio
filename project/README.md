@@ -30,6 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * [Mysql](https://www.npmjs.com/package/mysql2)
 * [Eslint](https://eslint.org/)
 * [Prettier](https://prettier.io/)
+* [DotEnv](https://www.npmjs.com/package/dotenv)
 
 # 📥 Instruções de uso
 Será necessario ter Mysql instalado na maquina ou rodando em algum container.
