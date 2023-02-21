@@ -11,7 +11,7 @@
 * [Licença](#licença)
 
 # 💻 Descrição
-Um sistema de cadastro de gastos financeiros 
+Um sistema de cadastro de gastos financeiros desenvolvido com nodejs, com intuito de armazenar seus gastos e verificar o total.
 
 # 🚀 Meus Passos
  - Comecei instalando bibliotecas para manter boas práticas de desenvolvimento, como eslint, prettier, entre outras.
