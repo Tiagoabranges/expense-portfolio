@@ -1,4 +1,4 @@
-const token = 'token=2724|VTcuqzXRMQRwSn4vywfVe9xEWvVc2kG5';
+const token = ;
 const moeda = 'USD_BRL,EUR_USD';
 
 fetch(`https://api.invertexto.com/v1/currency/${moeda}?${token}`)
